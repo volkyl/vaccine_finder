@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+.idea
+*.iml
+*.ipr
+*.iws
+*.jks
+**/__pycache__/
+*.pyc
+.env.prod*
+data
+secrets
+*.swp
